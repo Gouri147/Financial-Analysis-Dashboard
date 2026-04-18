@@ -1,4 +1,4 @@
-# Financial Analysis Dashboard (Power BI)
+# Financial-Analysis-Dashboard (Power BI)
 
 ##  Overview
 
@@ -44,8 +44,8 @@ The dashboard consists of 8 key visuals grouped by business function:
 
 ###  Financial Performance
 
-* 📈 **Revenue & Profit Trend** – Tracks Revenue and EBITDA over time
-* 📊 **Budget vs Actual** – Compares actual revenue against targets
+*  **Revenue & Profit Trend** – Tracks Revenue and EBITDA over time
+*  **Budget vs Actual** – Compares actual revenue against targets
 
 ###  Profitability Analysis
 
