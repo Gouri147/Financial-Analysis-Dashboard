@@ -146,6 +146,6 @@ This dashboard provides a consolidated view of financial performance, helping st
 **Gouri Sharma**
 Aspiring Data Analyst
 
-* 🔗 LinkedIn: *https://www.linkedin.com/in/gouri-sharma-702117293/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4A3O3Ds%2BQxuHX8e2nwbAag%3D%3D*
+* 🔗 LinkedIn: *https://www.linkedin.com/in/gouri-sharma-702117293
 * 📧 Email: *34shgouri@gmail.com*
 * 💻 GitHub: *Gouri147*
